@@ -1,1 +1,1 @@
-# Simple page for thie awesome band called Bedibê
+# Simple page for this awesome band called Bedibê
